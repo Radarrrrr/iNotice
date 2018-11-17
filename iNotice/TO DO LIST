@@ -1,0 +1,7 @@
+（done）1. 修好swift按钮
+（done）2. 做today widget入口
+2.5. 从todywidget入口进来的，要完善重要控制器actioncenter，定义字典，能直接触发todo和check的两种页面之间的自动显示切换
+3. 嵌入当当猴语音识别
+4. 完善setting页，可选开启app就录音
+5. 地理坐标系提醒
+＊6. add按钮改到右上角，edit放到左上角

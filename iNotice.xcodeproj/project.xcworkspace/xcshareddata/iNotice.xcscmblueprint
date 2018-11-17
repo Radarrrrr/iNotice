@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "57bf912a-f5eb-fbc8-570f-45ca46740a4d",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "57bf912a-f5eb-fbc8-570f-45ca46740a4d" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "57bf912a-f5eb-fbc8-570f-45ca46740a4d" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "32C3B0C3-1CDC-4A28-8A50-321804EA84EB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "57bf912a-f5eb-fbc8-570f-45ca46740a4d" : "rydring.inotice\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iNotice",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "trunk\/iNotice.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/vip.svnspot.com\/rydring.inotice",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "57bf912a-f5eb-fbc8-570f-45ca46740a4d"
+    }
+  ]
+}

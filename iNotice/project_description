@@ -1,0 +1,9 @@
+//内部字典说明
+
+inotice://     //用来从程序外部跳转进入app，基本入口，不含功能直接跳转的
+说明：
+** 如果含功能直接跳转的，按如下格式:  inotice://todolist//
+
+todolist://     //跳转进入todolist模块
+check://        //跳转进入dailycheck模块
+setting://      //跳转进入setting模块

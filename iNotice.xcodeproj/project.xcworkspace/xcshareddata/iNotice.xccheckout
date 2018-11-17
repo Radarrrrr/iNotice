@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>32C3B0C3-1CDC-4A28-8A50-321804EA84EB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>57bf912a-f5eb-fbc8-570f-45ca46740a4d</key>
+		<string>https://vip.svnspot.com/rydring.inotice</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/iNotice.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>57bf912a-f5eb-fbc8-570f-45ca46740a4d</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>57bf912a-f5eb-fbc8-570f-45ca46740a4d</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>57bf912a-f5eb-fbc8-570f-45ca46740a4d</string>
+			<key>IDESourceControlWCCName</key>
+			<string>rydring.inotice</string>
+		</dict>
+	</array>
+</dict>
+</plist>
